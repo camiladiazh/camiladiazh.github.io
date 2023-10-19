@@ -1,6 +1,53 @@
 title: Camila Díaz Hermosilla # your name (or website title) here
 logo: "images/yo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <html>
+  <head>
+    <title>Botones de Redes Sociales</title>
+    <!-- Font Awesome CDN -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+      .social-icons {
+        display: flex;
+        justify-content: space-around;
+        width: 300px;
+        margin: auto;
+      }
+      .social-icons a {
+        background-color: #267CB9;
+        padding: 10px;
+        border-radius: 50%;
+        color: white;
+        font-size: 24px;
+        text-align: center;
+        width: 50px;
+        height: 50px;
+      }
+    </style>
+  </head>
+  <body>
+  
+    <div class="social-icons">
+      <!-- Email -->
+      <a href="mailto:example@email.com" target="_blank"><i class="fas fa-envelope"></i></a>
+      <!-- GitHub -->
+      <a href="https://github.com/username" target="_blank"><i class="fab fa-github"></i></a>
+      <!-- Instagram -->
+      <a href="https://www.instagram.com/username/" target="_blank"><i class="fab fa-instagram"></i></a>
+      <!-- LinkedIn -->
+      <a href="https://www.linkedin.com/in/username/" target="_blank"><i class="fab fa-linkedin"></i></a>
+      <!-- Threads (No hay un icono específico para Threads, usando un icono genérico) -->
+      <a href="https://threads.com/username/" target="_blank"><i class="fas fa-comments"></i></a>
+      <!-- ResearchGate -->
+      <a href="https://www.researchgate.net/profile/username" target="_blank"><i class="ai ai-researchgate"></i></a>
+    </div>
+  
+    <!-- Añadiendo el icono de ResearchGate desde Academicons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css">
+  
+  </body>
+  </html>
+
 
   
 remote_theme: pages-themes/minimal@v0.2.0
