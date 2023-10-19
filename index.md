@@ -26,10 +26,4 @@
 ---
 
 ### Investigación
-[Puedes visitar mi perfil en Research Gate para saber sobre mis publicaciones.]([http://example.com/](https://www.researchgate.net/profile/Camila-Diaz-Hermosilla-2))
-
----
-
-
-
-
+[Puedes visitar mi perfil en Research Gate para saber sobre mis publicaciones.](https://www.researchgate.net/profile/Camila-Diaz-Hermosilla-2)
