@@ -1,4 +1,4 @@
-  <p align="justify">Hola👋, soy estudiante de medicina de cuarto año con una inclinación hacia la cirugía general y trauma, actualmente cursando  mis estudios en la <a href="https://www.ufro.cl">UFRO</a>. Además, formo parte de la directiva de diversas organizaciones estudiantiles relacionadas con el ámbito médico, como <a href="https://acutem.cl">ACUTEM</a>.</p>
+![image](https://github.com/camiladiazh/camiladiazh.github.io/assets/73513072/49477208-5f3e-4d33-bf76-6a45bd9e2a46)  <p align="justify">Hola👋, soy estudiante de medicina de cuarto año con una inclinación hacia la cirugía general y trauma, actualmente cursando  mis estudios en la <a href="https://www.ufro.cl">UFRO</a>. Además, formo parte de la directiva de diversas organizaciones estudiantiles relacionadas con el ámbito médico, como <a href="https://acutem.cl">ACUTEM</a>.</p>
   <p align="justify">Me apasiona la medicina y su potencial para crear un impacto social. Mi enfoque es interdisciplinario, desde investigación médica hasta políticas de salud y concientización. Dentro de mis intereses se encuentran la programación, especialmente enfocada en desarrollo e inteligencia artificial, lo que me permite fusionar mis habilidades técnicas con mi vocación médica para innovar en educación médica.</p>
 
 ## ¿En qué estoy?
@@ -7,26 +7,30 @@
 
 ### Proyectos
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Sitio Web Neuroanatomía UFRO]()
+<img src="![image] (https://github.com/camiladiazh/camiladiazh.github.io/assets/73513072/8bf6b486-d052-4e6f-ab7d-cc1b73311e24)"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Sitio Web Anatomía de Cabeza y Cuello UFRO]()
+<img src="![image](https://github.com/camiladiazh/camiladiazh.github.io/assets/73513072/430d7d02-e125-43c4-aecd-f08b46472770)
+"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[MEDUFRO Móvil]()
+<img src=""/>
+
+---
+[Open Research]()
+<img src=""/>
+
+---
+[Academia de Cirugía Urgencias y Trauma](https://acutem.cl)
+<img src=""/>
 
 ---
 
 ### Investigación
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Puedes visitar mi perfil en Research Gate para saber sobre mis publicaciones.]([http://example.com/](https://www.researchgate.net/profile/Camila-Diaz-Hermosilla-2))
 
 ---
 
