@@ -1,8 +1,7 @@
 title: Camila Díaz Hermosilla # your name (or website title) here
 logo: "images/yo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br></br>
-  Hola 👋, puedes contactarme en cualquiera de los medios de aquí abajo.
+  <p align="justify">Hola 👋, puedes contactarme en cualquiera de los medios de aquí abajo.</p>
   <!DOCTYPE html>
   <html>
   <head>
@@ -47,8 +46,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   </body>
   </html>
-  <br>
-  ℹ️ Si quieres una reunión conmigo para discutir algún proyecto, puedes agendarla en <a href="https://cal.com/camiladiazh">este link</a>.</br>
+  <p align="justify">ℹ️ Si quieres una reunión conmigo para discutir algún proyecto, puedes agendarla en <a href="https://cal.com/camiladiazh">este link</a>.</p>
 
 
   
