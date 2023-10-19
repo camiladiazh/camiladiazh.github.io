@@ -30,17 +30,15 @@ description: > # your text below (remove <br> elements if you don't need line br
   
     <div class="social-icons">
       <!-- Email -->
-      <a href="mailto:example@email.com" target="_blank"><i class="fas fa-envelope"></i></a>
+      <a href="mailto:c.diaz@ufromail.cl" target="_blank"><i class="fas fa-envelope"></i></a>
       <!-- GitHub -->
-      <a href="https://github.com/username" target="_blank"><i class="fab fa-github"></i></a>
+      <a href="https://github.com/camiladiazh/" target="_blank"><i class="fab fa-github"></i></a>
       <!-- Instagram -->
-      <a href="https://www.instagram.com/username/" target="_blank"><i class="fab fa-instagram"></i></a>
+      <a href="https://www.instagram.com/camila_diazh/" target="_blank"><i class="fab fa-instagram"></i></a>
       <!-- LinkedIn -->
-      <a href="https://www.linkedin.com/in/username/" target="_blank"><i class="fab fa-linkedin"></i></a>
-      <!-- Threads (No hay un icono específico para Threads, usando un icono genérico) -->
-      <a href="https://threads.com/username/" target="_blank"><i class="fas fa-comments"></i></a>
+      <a href="https://www.linkedin.com/in/camila-diaz-hermosilla/" target="_blank"><i class="fab fa-linkedin"></i></a>
       <!-- ResearchGate -->
-      <a href="https://www.researchgate.net/profile/username" target="_blank"><i class="ai ai-researchgate"></i></a>
+      <a href="https://www.researchgate.net/profile/Camila-Diaz-Hermosilla-2" target="_blank"><i class="ai ai-researchgate"></i></a>
     </div>
   
     <!-- Añadiendo el icono de ResearchGate desde Academicons -->
