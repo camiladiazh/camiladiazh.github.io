@@ -19,7 +19,7 @@
 <img src=""/>
 
 ---
-[Open Research]()
+[Open Research](https://instagram.com/openresearch.cl)
 <img src=""/>
 
 ---
