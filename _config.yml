@@ -112,9 +112,12 @@ description: > # your text below (remove <br> elements if you don't need line br
   <h2>Style Social Media Buttons</h2>
   
   <!-- Add font awesome icons -->
-  <a href="#" class="fa fa-linkedin"></a>
-  <a href="#" class="fa fa-instagram"></a>
- 
+  <a class="text-emphasis" href="https://www.facebook.com/dmalan"><i class="fa-brands fa-facebook"></i></a>
+  <a class="text-emphasis" href="https://github.com/dmalan"><i class="fa-brands fa-github"></i></a>
+  <a class="text-emphasis" href="https://www.instagram.com/davidjmalan/"><i class="fa-brands fa-instagram"></i></a>
+  <a class="text-emphasis" href="https://www.linkedin.com/in/malan/"><i class="fa-brands fa-linkedin"></i></a>
+  <a class="text-emphasis" href="https://www.reddit.com/user/davidjmalan"><i class="fa-brands fa-reddit-alien"></i></a>
+  <a class="text-emphasis" href="https://www.threads.net/@davidjmalan"><i class="fa-brands fa-threads"></i></a>
         
   </body>
   </html> 
