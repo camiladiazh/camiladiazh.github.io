@@ -1,16 +1,5 @@
-  <p align="justify">Hola👋, soy estudiante de medicina de cuarto año con una 
-  inclinación hacia la cirugía general, actualmente cursando 
-  mis estudios en la <a href="https://www.ufro.cl">UFRO</a>. 
-  Además, formo parte de la directiva de diversas organizaciones 
-  estudiantiles relacionadas con el ámbito médico, como <a href="https://acutem.cl">ACUTEM</a>.</p>
-  <p align="justify">Mi pasión radica en la medicina y en el impacto social que esta 
-  puede generar. Mi trabajo es interdisciplinario, abarcando desde 
-  la investigación médica hasta la participación en políticas de salud 
-  pública y campañas de concienciación. Además de mi interés en la medicina, 
-  también tengo un gran interés por las ciencias de la computanción, sobre todo 
-  en desarrollo e inteligencia artificial, lo que me permite combinar mis 
-  habilidades técnicas con mi vocación médica para crear soluciones 
-  innovadoras en el campo de la educación médica.</p>
+  <p align="justify">Hola👋, soy estudiante de medicina de cuarto año con una inclinación hacia la cirugía general y trauma, actualmente cursando  mis estudios en la <a href="https://www.ufro.cl">UFRO</a>. Además, formo parte de la directiva de diversas organizaciones estudiantiles relacionadas con el ámbito médico, como <a href="https://acutem.cl">ACUTEM</a>.</p>
+  <p align="justify">Me apasiona la medicina y su potencial para crear un impacto social. Mi enfoque es interdisciplinario, desde investigación médica hasta políticas de salud y concientización. Dentro de mis intereses se encuentran la programación, especialmente enfocada en desarrollo e inteligencia artificial, lo que me permite fusionar mis habilidades técnicas con mi vocación médica para innovar en educación médica.</p>
 
 ## Portfolio
 
