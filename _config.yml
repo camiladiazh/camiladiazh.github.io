@@ -12,6 +12,7 @@ plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
+# css botones
 .button.button-linked {
   color: #ffffff;
   background-color: #2867b2;
@@ -41,4 +42,8 @@ google_analytics: UA-000000-0 # your Google Analytics tracking ID here
     outline: none;
     border-radius: 8px;
     cursor: pointer;
+}
+
+button, .button {
+    margin-bottom: 1rem;
 }
