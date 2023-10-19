@@ -3,7 +3,6 @@
   mis estudios en la <a href="https://www.ufro.cl">UFRO</a>. 
   Además, formo parte de la directiva de diversas organizaciones 
   estudiantiles relacionadas con el ámbito médico, como <a href="https://acutem.cl">ACUTEM</a>.</p>
-  <br></br>
   <p align="justify">Mi pasión radica en la medicina y en el impacto social que esta 
   puede generar. Mi trabajo es interdisciplinario, abarcando desde 
   la investigación médica hasta la participación en políticas de salud 
@@ -12,7 +11,6 @@
   en desarrollo e inteligencia artificial, lo que me permite combinar mis 
   habilidades técnicas con mi vocación médica para crear soluciones 
   innovadoras en el campo de la educación médica.</p>
-  <br></br>
 
 ## Portfolio
 
