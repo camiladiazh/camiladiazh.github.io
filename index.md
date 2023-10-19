@@ -21,7 +21,7 @@
 [Open Research](https://instagram.com/openresearch.cl)
 
 ---
-[Academia de Cirugía Urgencias y Trauma](https://acutem.cl)
+[Academia de Cirugía Urgencias y Trauma de Estudiantes de Medicina](https://acutem.cl)
 
 ---
 
