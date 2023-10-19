@@ -16,15 +16,12 @@
 
 ---
 [MEDUFRO Móvil]()
-<img src=""/>
 
 ---
 [Open Research](https://instagram.com/openresearch.cl)
-<img src=""/>
 
 ---
 [Academia de Cirugía Urgencias y Trauma](https://acutem.cl)
-<img src=""/>
 
 ---
 
