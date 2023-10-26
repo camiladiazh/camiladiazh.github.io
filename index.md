@@ -44,7 +44,7 @@ Puedes visitar mi perfil en [Research Gate](https://www.researchgate.net/profile
 
 ---
 
-[Currículum Vitae]() (English Version) *Coming soon*
+[Currículum Vitae]() **(English Version)** *Coming soon*
 
 ---
 
