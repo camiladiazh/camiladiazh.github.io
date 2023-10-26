@@ -5,7 +5,7 @@
 
 ---
 
-### Proyectos
+### Algunos Proyectos
 
 [Sitio Web Neuroanatomía UFRO](https://neuroanatomia.ufro.cl)
 <img src="https://github.com/camiladiazh/camiladiazh.github.io/assets/73513072/8bf6b486-d052-4e6f-ab7d-cc1b73311e24"/>
@@ -32,3 +32,17 @@
 ### Investigación
 
 Puedes visitar mi perfil en [Research Gate](https://www.researchgate.net/profile/Camila-Diaz-Hermosilla-2) para saber sobre mis publicaciones.
+
+---
+
+### Otros
+
+[Currículum Vitae]() *Próximamente*
+
+---
+
+[Currículum Vitae]() (English Version) *Coming soon*
+
+---
+
+
