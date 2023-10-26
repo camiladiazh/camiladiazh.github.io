@@ -8,16 +8,14 @@
 ### Proyectos
 
 [Sitio Web Neuroanatomía UFRO](https://neuroanatomia.ufro.cl)
-<img src="https://github.com/camiladiazh/camiladiazh.github.io/assets/73513072/8bf6b486-d052-4e6f-ab7d-cc1b73311e24"/>
 
 ---
 
 [Sitio Web Anatomía de Cabeza y Cuello UFRO]()
-<img src="https://github.com/camiladiazh/camiladiazh.github.io/assets/73513072/430d7d02-e125-43c4-aecd-f08b46472770"/>
 
 ---
 
-[MEDUFRO Móvil]()
+[MEDUFRO Móvil]() *Próximamente*
 
 ---
 
