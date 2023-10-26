@@ -3,6 +3,9 @@
 
 ## ¿En qué estoy?
 
+> [!WARNING]
+> Aún me encuentro construyendo este sitio, por lo que pueden faltar detalles. Si quieres saber algo más, puedes contactarme.
+
 ---
 
 ### Algunos Proyectos
