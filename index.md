@@ -70,7 +70,8 @@
 
 [Sitio Web Neuroanatomía UFRO](https://neuroanatomia.ufro.cl)
 <img src="https://github.com/camiladiazh/camiladiazh.github.io/assets/73513072/8bf6b486-d052-4e6f-ab7d-cc1b73311e24"/>
-<button class="btn btn-outline-secondary my-2">Mi Botón</button>
+<a href="https://www.linkedin.com/in/martinillanes/"><button type="button" class="btn btn-outline-secondary my-2" style="width:100%">LinkedIn</button></a>
+  <button class="btn btn-outline-secondary my-2">Mi Botón</button>
 
 ---
 
