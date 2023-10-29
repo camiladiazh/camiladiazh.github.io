@@ -37,13 +37,10 @@ description: > # your text below (remove <br> elements if you don't need line br
       <a href="https://www.instagram.com/camila_diazh/" target="_blank"><i class="fab fa-instagram"></i></a>
       <!-- LinkedIn -->
       <a href="https://www.linkedin.com/in/camila-diaz-hermosilla/" target="_blank"><i class="fab fa-linkedin"></i></a>
-      <!-- ResearchGate -->
-      <a href="https://www.researchgate.net/profile/Camila-Diaz-Hermosilla-2" target="_blank"><i class="ai ai-researchgate"></i></a>
+
     </div>
   
-    <!-- Añadiendo el icono de ResearchGate desde Academicons -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css">
-  
+
   </body>
   </html>
   <br></br>
