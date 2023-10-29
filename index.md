@@ -25,6 +25,15 @@
   background-color: #267CB9;
   color: white;
 }
+.button2 {
+  background-color: white; 
+  color: #b0d8f5; 
+  border: 1px solid #b0d8f5;
+}
+.button2:hover {
+  background-color: #b0d8f5;
+  color: white;
+}
 </style>
 
 ## ¿En qué estoy?
@@ -46,10 +55,10 @@
   <button class="button button1">Academia de Cirugía Urgencias y Trauma de Estudiantes de Medicina</button>
 </a>
 <a href="">
-  <button class="button button1">Sitio Web Anatomía de Cabeza y Cuello UFRO *Próximamente*</button> 
+  <button class="button button2">Sitio Web Anatomía de Cabeza y Cuello UFRO *Próximamente*</button> 
 </a>
 <a href="">
-  <button class="button button1">MEDUFRO Móvil *Próximamente*</button> 
+  <button class="button button2">MEDUFRO Móvil *Próximamente*</button> 
 </a>
 
 
@@ -65,9 +74,9 @@
 ---
 
 <a href="">
-  <button class="button button1">Currículum Vitae *Próximamente*</button> 
+  <button class="button button2">Currículum Vitae *Próximamente*</button> 
 </a> 
 <a href="">
-  <button class="button button1">Curriculum Vitae (English Version) *Coming soon*</button> 
+  <button class="button button2">Curriculum Vitae (English Version) *Coming soon*</button> 
 </a> 
 
