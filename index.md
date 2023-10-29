@@ -48,7 +48,6 @@
 <a href="">
   <button class="button button1">Sitio Web Anatomía de Cabeza y Cuello UFRO *Próximamente*</button> 
 </a>
-
 <a href="">
   <button class="button button1">MEDUFRO Móvil *Próximamente*</button> 
 </a>
