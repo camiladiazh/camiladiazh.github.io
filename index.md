@@ -36,7 +36,7 @@
 ### Algunos Proyectos
 
 [Sitio Web Neuroanatomía UFRO](https://neuroanatomia.ufro.cl)
-<img src="https://github.com/camiladiazh/camiladiazh.github.io/assets/73513072/8bf6b486-d052-4e6f-ab7d-cc1b73311e24"></img>
+<img src="https://github.com/camiladiazh/camiladiazh.github.io/assets/73513072/8bf6b486-d052-4e6f-ab7d-cc1b73311e24"/>
 <a href="https://www.ejemplo.com">
   <button class="button button1">Green</button>
 </a>
