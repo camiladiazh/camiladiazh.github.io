@@ -18,11 +18,11 @@
 }
 .button1 {
   background-color: white; 
-  color: #6c757d; 
-  border: 1px solid #6c757d;
+  color: #267CB9; 
+  border: 1px solid #267CB9;
 }
 .button1:hover {
-  background-color: #6c757d;
+  background-color: #267CB9;
   color: white;
 }
 </style>
@@ -34,42 +34,45 @@
 ---
 
 ### Algunos Proyectos
+---
 
-[Sitio Web Neuroanatomía UFRO](https://neuroanatomia.ufro.cl)
-<img src="https://github.com/camiladiazh/camiladiazh.github.io/assets/73513072/8bf6b486-d052-4e6f-ab7d-cc1b73311e24"/>
-<a href="https://www.ejemplo.com">
-  <button class="button button1">Green</button>
+<a href="https://neuroanatomia.ufro.cl">
+  <button class="button button1">Sitio Web Neuroanatomía UFRO</button>
 </a>
 
----
+<a href="https://instagram.com/openresearch.cl">
+  <button class="button button1">Open Research</button>
+</a>
 
-[Open Research](https://instagram.com/openresearch.cl)
+<a href="https://acutem.cl">
+  <button class="button button1">Academia de Cirugía Urgencias y Trauma de Estudiantes de Medicina</button>
+</a>
 
----
+<a href="">
+  <button class="button button1">Sitio Web Anatomía de Cabeza y Cuello UFRO</button> *Próximamente*
+</a>
 
-[Academia de Cirugía Urgencias y Trauma de Estudiantes de Medicina](https://acutem.cl)
+<a href="">
+  <button class="button button1">MEDUFRO Móvil</button> *Próximamente*
+</a>
 
----
 
-[Sitio Web Anatomía de Cabeza y Cuello UFRO]() *Próximamente*
-<img src="https://github.com/camiladiazh/camiladiazh.github.io/assets/73513072/430d7d02-e125-43c4-aecd-f08b46472770"/>
-
----
-
-[MEDUFRO Móvil]() *Próximamente*
-
----
 
 ### Investigación
-
-Puedes visitar mi perfil en [Research Gate](https://www.researchgate.net/profile/Camila-Diaz-Hermosilla-2) para saber sobre mis publicaciones.
-
 ---
+
+<a href="https://www.researchgate.net/profile/Camila-Diaz-Hermosilla-2">
+  <button class="button button1">Research Gate</button> *Próximamente*
+</a>
 
 ### Otros
-
-[Currículum Vitae]() *Próximamente*
-
 ---
 
-[Currículum Vitae]() **(English Version)** *Coming soon*
+<a href="">
+  <button class="button button1">Currículum Vitae</button> *Próximamente*
+</a> 
+
+<a href="">
+  <button class="button button1">Curriculum Vitae (English Version)</button> *Coming soon*
+</a> 
+
