@@ -39,21 +39,18 @@
 <a href="https://neuroanatomia.ufro.cl">
   <button class="button button1">Sitio Web Neuroanatomía UFRO</button>
 </a>
-
 <a href="https://instagram.com/openresearch.cl">
   <button class="button button1">Open Research</button>
 </a>
-
 <a href="https://acutem.cl">
   <button class="button button1">Academia de Cirugía Urgencias y Trauma de Estudiantes de Medicina</button>
 </a>
-
 <a href="">
-  <button class="button button1">Sitio Web Anatomía de Cabeza y Cuello UFRO</button> *Próximamente*
+  <button class="button button1">Sitio Web Anatomía de Cabeza y Cuello UFRO *Próximamente*</button> 
 </a>
 
 <a href="">
-  <button class="button button1">MEDUFRO Móvil</button> *Próximamente*
+  <button class="button button1">MEDUFRO Móvil *Próximamente*</button> 
 </a>
 
 
@@ -62,17 +59,16 @@
 ---
 
 <a href="https://www.researchgate.net/profile/Camila-Diaz-Hermosilla-2">
-  <button class="button button1">Research Gate</button> *Próximamente*
+  <button class="button button1">Research Gate</button>
 </a>
 
 ### Otros
 ---
 
 <a href="">
-  <button class="button button1">Currículum Vitae</button> *Próximamente*
+  <button class="button button1">Currículum Vitae *Próximamente*</button> 
 </a> 
-
 <a href="">
-  <button class="button button1">Curriculum Vitae (English Version)</button> *Coming soon*
+  <button class="button button1">Curriculum Vitae (English Version) *Coming soon*</button> 
 </a> 
 
