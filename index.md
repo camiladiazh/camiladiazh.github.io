@@ -9,7 +9,7 @@
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  border-radius: 2px;
+  border-radius: 0.375rem;
   font-size: 16px;
   margin: 4px 2px;
   width: 100%;
