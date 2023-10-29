@@ -44,28 +44,3 @@ Puedes visitar mi perfil en [Research Gate](https://www.researchgate.net/profile
 ---
 
 [Currículum Vitae]() **(English Version)** *Coming soon*
-
-
-<html>
-<head>
-  <style>
-    .custom-button{
-      width: 100%; 
-      background-color: white; 
-      border: 1px solid #ccc; 
-      border-radius: 12px; 
-      padding: 10px; 
-      font-size: 16px; 
-      cursor: pointer; 
-    }
-    .custom-button:hover{
-      background-color: #f2f2f2;
-    }
-  </style>
-</head>
-<body>
-
-  <button class="custom-button">Mi Botón</button>
-
-</body>
-</html>
