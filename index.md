@@ -58,7 +58,7 @@
   <button class="button button2">Sitio Web Anatomía de Cabeza y Cuello UFRO *Próximamente*</button> 
 </a>
 <a href="">
-  <button class="button button2">MEDUFRO Móvil *Próximamente*</button> 
+  <button class="button button2">Salud a la Calle - IFMSA UFRO *Próximamente*</button> 
 </a>
 
 
