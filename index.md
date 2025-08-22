@@ -80,7 +80,7 @@
 ## Resources
 ---
 
-<a href="pdf/3. CV - Camila Diaz-Hermosilla.pdf">
+<a href="https://drive.google.com/file/d/1tX1NR8sQoag4zer-y722cbOQJp4P4DFX/view?usp=sharing">
   <button class="button button1">Currículum Vitae (PDF)</button> 
 </a> 
 <a href="">
