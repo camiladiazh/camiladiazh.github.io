@@ -1,7 +1,7 @@
 title: Camila Díaz Hermosilla # your name (or website title) here
 logo: "images/yo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <p align="justify">Hola 👋, puedes contactarme en cualquiera de los medios de aquí abajo.</p>
+  <p align="justify">Hi 👋, thanks for visiting my site. You can reach me through any of the links below.</p>
   <!DOCTYPE html>
   <html>
   <head>
@@ -44,7 +44,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   </body>
   </html>
   <br></br>
-  <p align="justify">ℹ️ Si quieres una reunión conmigo para discutir algún proyecto, puedes agendarla en <a href="https://outlook.office.com/bookwithme/user/7de62228a995496abb8cd45f050172e9%40ufromail.cl/meetingtype/7ccda299-bcbc-4d69-ae7e-aa79def661aa?anonymous">este link</a>.</p>
+  <p align="justify">ℹ️ If you’d like to schedule a meeting with me to discuss a project or collaboration, you can book a time directly through <a href="https://calendar.notion.so/meet/camiladiazh/agenda">this link</a>.</p>
 
 
   
