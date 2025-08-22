@@ -1,5 +1,5 @@
-<p align="justify">Soy estudiante de medicina de cuarto año con una inclinación hacia la cirugía general y trauma, actualmente cursando  mis estudios en la <a href="https://www.ufro.cl">UFRO</a>. Además, formo parte de la directiva de diversas organizaciones estudiantiles relacionadas con el ámbito médico, como <a href="https://acutem.cl">ACUTEM</a>.</p>
-<p align="justify">Me apasiona la medicina y su potencial para crear un impacto social. Mi enfoque es interdisciplinario, desde investigación médica hasta políticas de salud y concientización. Dentro de mis intereses se encuentran la programación, especialmente enfocada en desarrollo e inteligencia artificial, lo que me permite fusionar mis habilidades técnicas con mi vocación médica para innovar en educación médica.</p>
+<p align="justify">I am a fifth-year medical student at the<a href="https://www.ufro.cl">University of La Frontera (UFRO)</a>, with a strong academic focus on general surgery and trauma. My experience spans clinical research, teaching, and leadership: I have co-founded and led national student organizations such as ACUTEM and the UFRO chapter of the Association of Women Surgeons, organized Chile’s first student-led congress on Global Surgery, and created peer-mentorship networks that have supported over 150 trainees in research.</p>
+<p align="justify">Passionate about medicine’s capacity to drive social change, I combine clinical training with interdisciplinary work in public health, education, and advocacy. My research has been presented and awarded at international congresses and published in peer-reviewed journals, addressing topics from trauma epidemiology to surgical outcomes. Additionally, I bring technical skills in programming and data science, integrating tools such as R, Stata, and Python to innovate in medical education and global surgery research.</p>
 
 <style>
 .button {
@@ -36,47 +36,44 @@
 }
 </style>
 
-## ¿En qué estoy?
-
-> *Aún me encuentro construyendo este sitio, por lo que pueden faltar detalles. Si quieres saber algo más, puedes contactarme.*
-
+## Leadership & Projects
 ---
 
-### Algunos Proyectos
----
-
-<a href="https://neuroanatomia.ufro.cl">
-  <button class="button button1">Sitio Web Neuroanatomía UFRO</button>
+<a href="https://acutem.cl">
+  <button class="button button1">Academia de Cirugía Urgencias y Trauma de Estudiantes de Medicina</button>
+</a>
+<a href="https://www.instagram.com/ifmsa_ufro?igsh=djhxeXlqMXRmd203">
+  <button class="button button1">Salud a la Calle - IFMSA UFRO</button> 
 </a>
 <a href="https://instagram.com/openresearch.cl">
   <button class="button button1">Open Research</button>
 </a>
-<a href="https://acutem.cl">
-  <button class="button button1">Academia de Cirugía Urgencias y Trauma de Estudiantes de Medicina</button>
+---
+
+### Innovative Teaching Projects
+---
+
+<a href="https://neuroanatomia.ufro.cl">
+  <button class="button button1">Neuroanatomy website</button>
 </a>
-<a href="">
-  <button class="button button2">Sitio Web Anatomía de Cabeza y Cuello UFRO *Próximamente*</button> 
-</a>
-<a href="">
-  <button class="button button2">Salud a la Calle - IFMSA UFRO *Próximamente*</button> 
+<a href="https://certificame.cl/anatocyc">
+  <button class="button button1">Sitio Web Anatomía de Cabeza y Cuello UFRO</button> 
 </a>
 
-
-
-### Investigación
+## Research & Publications
 ---
 
 <a href="https://www.researchgate.net/profile/Camila-Diaz-Hermosilla-2">
   <button class="button button1">Research Gate</button>
 </a>
 
-### Otros
+## Resources
 ---
 
 <a href="">
-  <button class="button button2">Currículum Vitae *Próximamente*</button> 
+  <button class="button button2">Currículum Vitae (PDF)</button> 
 </a> 
 <a href="">
-  <button class="button button2">Curriculum Vitae (English Version) *Coming soon*</button> 
+  <button class="button button2">Extended Curriculum Vitae *Coming soon*</button> 
 </a> 
 
