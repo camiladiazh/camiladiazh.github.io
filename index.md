@@ -39,7 +39,9 @@
 ## Leadership & Projects
 ---
 
-<a href="https://acutem.cl">
+<a href="https://panamtrauma.org/">
+  <button class="button button1">Panamerican Trauma Society</button>
+</a><a href="https://acutem.cl">
   <button class="button button1">Academia de Cirugía Urgencias y Trauma de Estudiantes de Medicina</button>
 </a>
 <a href="https://www.instagram.com/acutem.aws?igsh=NWxiNmJycWthY2Rs">
