@@ -75,7 +75,7 @@
 ## Resources
 ---
 
-<a href="">
+<a href="https://github.com/camiladiazh/camiladiazh.github.io/blob/13ac4fe31ce74585d9757549856010d9854c1e13/pdf/3.%20CV%20-%20Camila%20Diaz-Hermosilla.pdf">
   <button class="button button2">Currículum Vitae (PDF)</button> 
 </a> 
 <a href="">
